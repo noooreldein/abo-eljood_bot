@@ -1,0 +1,4 @@
+requests
+pyTelegramBotAPI
+urllib3
+certifi
